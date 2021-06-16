@@ -1,0 +1,15 @@
+/Users/sanya/работа/Arrays/Option5/bin/Debug/net5.0/Option5.deps.json
+/Users/sanya/работа/Arrays/Option5/bin/Debug/net5.0/Option5.runtimeconfig.json
+/Users/sanya/работа/Arrays/Option5/bin/Debug/net5.0/Option5.runtimeconfig.dev.json
+/Users/sanya/работа/Arrays/Option5/bin/Debug/net5.0/Option5.dll
+/Users/sanya/работа/Arrays/Option5/bin/Debug/net5.0/ref/Option5.dll
+/Users/sanya/работа/Arrays/Option5/bin/Debug/net5.0/Option5.pdb
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.csprojAssemblyReference.cache
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.AssemblyInfoInputs.cache
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.AssemblyInfo.cs
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.csproj.CoreCompileInputs.cache
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.dll
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/ref/Option5.dll
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.pdb
+/Users/sanya/работа/Arrays/Option5/obj/Debug/net5.0/Option5.genruntimeconfig.cache
